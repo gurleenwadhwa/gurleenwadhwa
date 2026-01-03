@@ -9,7 +9,7 @@
 
 - I write TypeScript, Go and Python.
 - Currently building [**WhyImBroke**](https://whyimbroke.tech/), a CFO Level Personal Finance AI Advisor at your service.
-- Learning about turborepo, web hooks and distributed systems.
+- Learning about turborepo, microservices and my new found love for Go.
 
 ---
 
