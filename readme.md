@@ -2,8 +2,7 @@
 
 <p align="center">
   <b>Software Engineer - TypeScript, Python and Go</b><br/>
-  Passionate about building resilient software systems and SaaS software. <br/>
-  I'm interested in Distributed Systems and Systems Level Programming. <br/>
+  Passionate about building distributed software systems. <br/>
 </p>
 
 ---
